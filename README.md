@@ -4,24 +4,32 @@
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/redxcyber)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/redxcyber)
+<p align="left">
+  <a href="https://linkedin.com/in/redxcyber" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/redxcyber" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
 ---
 
 ### 🔧 Tech Stack:
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
 
 ---
 
 ### 🚀 Projects:
 - **[Student Grade Management System](https://github.com/Redxcyber/Learning-C/blob/main/18-projects/01-grade-management-system.c)**: A C project to manage student grades efficiently.
 - **[Contact Management System](https://github.com/Redxcyber/Learning-C/blob/main/18-projects/02-contact-management-system.c)**: A C-based system to organize and manage contacts.
-- **[Password Manager](https://github.com/Redxcyber/Learning-C/blob/main/18-projects/04-password-manager.c)**: A C language based password management system to organize and manage passwords
+- **[Password Manager](https://github.com/Redxcyber/Learning-C/blob/main/18-projects/04-password-manager.c)**: A C language based password management system to organize and manage passwords.
 - **[Snake Game](https://github.com/Redxcyber/Learning-C/blob/main/18-projects/05-snake-game.c)**: Classic Snake Game developed in C.
 - **[Food Website](https://redxcyber.github.io/Food-Website)**: A responsive and visually appealing website built with HTML and CSS.
 - **[Portfolio Website](https://redxcyber.github.io/Portfolio-Website)**: A personal portfolio showcasing my projects and skills.
@@ -39,9 +47,7 @@
 - Email: [pranav.cse@gmail.com](mailto:pranav.cse@gmail.com)
 - LinkedIn: [Redxcyber](https://linkedin.com/in/redxcyber)
 
----
 
-⭐️ From [Redxcyber](https://github.com/redxcyber)
 
 
 <!--
