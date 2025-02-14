@@ -5,11 +5,17 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/redxcyber" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/redxcyber" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+         style="border-radius: 10px; margin-right: 10px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://twitter.com/redxcyber" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://twitter.com/redxcyber" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" 
+         style="border-radius: 10px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </p>
 
@@ -31,9 +37,9 @@
 - **[Contact Management System](https://github.com/Redxcyber/Learning-C/blob/main/18-projects/02-contact-management-system.c)**: A C-based system to organize and manage contacts.
 - **[Password Manager](https://github.com/Redxcyber/Learning-C/blob/main/18-projects/04-password-manager.c)**: A C language based password management system to organize and manage passwords.
 - **[Snake Game](https://github.com/Redxcyber/Learning-C/blob/main/18-projects/05-snake-game.c)**: Classic Snake Game developed in C.
-- **[Food Website](https://redxcyber.github.io/Food-Website)**: A responsive and visually appealing website built with HTML and CSS.
-- **[Portfolio Website](https://redxcyber.github.io/Portfolio-Website)**: A personal portfolio showcasing my projects and skills.
-- **[Restaurant Website](https://redxcyber.github.io/Restaurant-Website)**: An elegant and responsive website for a restaurant, designed with HTML and CSS.
+- **[Food Website](https://redxcyber.github.io/Food-website)**: A responsive and visually appealing website built with HTML and CSS.
+- **[Portfolio Website](https://redxcyber.github.io/Portfolio)**: A personal portfolio showcasing my projects and skills.
+- **[Restaurant Website](https://redxcyber.github.io/Restaurant-website)**: An elegant and responsive website for a restaurant, designed with HTML and CSS.
 
 ---
 
@@ -46,7 +52,6 @@
 ### 📫 How to reach me:
 - Email: [pranav.cse@gmail.com](mailto:pranav.cse@gmail.com)
 - LinkedIn: [Redxcyber](https://linkedin.com/in/redxcyber)
-
 
 
 
