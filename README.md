@@ -50,7 +50,7 @@
 ---
 
 ### 📫 How to reach me:
-- Email: [pranav.cse@gmail.com](mailto:pranav.cse@gmail.com)
+- Email: [pranavsingh.cse@gmail.com](mailto:pranavsingh.cse@gmail.com)
 - LinkedIn: [Redxcyber](https://linkedin.com/in/redxcyber)
 
 
