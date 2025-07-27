@@ -3,52 +3,88 @@
 
 <br/>
 
-## 🌐 Connect with Me
+
+## ⚙ Tech Stack & Tools
 
 <p align="left">
-  <a href="https://linkedin.com/in/pranavsinghchandel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/asyncPranav" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
-<br/>
-
-## 🔧 Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-</p>
 
 <br/>
 
 ## 🚀 Projects
 
-- 🎓 [Student Grade Management System](https://github.com/Redxcyber/Learning-C/blob/main/18-projects/01-grade-management-system.c) – Built in C to manage grades.
-- 📞 [Contact Management System](https://github.com/Redxcyber/Learning-C/blob/main/18-projects/02-contact-management-system.c) – CLI-based contact organizer.
-- 🔐 [Password Manager](https://github.com/Redxcyber/Learning-C/blob/main/18-projects/04-password-manager.c) – Manage saved passwords in C.
-- 🐍 [Snake Game](https://github.com/Redxcyber/Learning-C/blob/main/18-projects/05-snake-game.c) – Classic game built with logic in C.
-- 🍕 [Food Website](https://redxcyber.github.io/Food-website) – Beautiful responsive website made with HTML & CSS.
-- 💼 [Portfolio Website](https://redxcyber.github.io/Portfolio) – Personal portfolio to showcase projects.
-- 🍽️ [Restaurant Website](https://redxcyber.github.io/Restaurant-website) – Modern restaurant landing page.
-- ✅ [Async-Todo](https://async-todo.netlify.app) – Vanilla JS Todo app with mock API.  
-- ⏰ [20-20-20-clock](https://20-20-20-clock.netlify.app) - Web app to protect your eyes using 20 20 20 rule.
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><strong><a href="https://github.com/Redxcyber/Learning-C/blob/main/18-projects/01-grade-management-system.c">Student Grade Management System</a></strong><br/>
+    A C program to manage and calculate student grades.</td>
+  </tr>
+  <tr>
+    <td>📞</td>
+    <td><strong><a href="https://github.com/Redxcyber/Learning-C/blob/main/18-projects/02-contact-management-system.c">Contact Management System</a></strong><br/>
+    Command-line based contact organizer built in C.</td>
+  </tr>
+  <tr>
+    <td>🔐</td>
+    <td><strong><a href="https://github.com/Redxcyber/Learning-C/blob/main/18-projects/04-password-manager.c">Password Manager</a></strong><br/>
+    CLI app in C for securely managing saved passwords.</td>
+  </tr>
+  <tr>
+    <td>🐍</td>
+    <td><strong><a href="https://github.com/Redxcyber/Learning-C/blob/main/18-projects/05-snake-game.c">Snake Game</a></strong><br/>
+    Classic snake game built using pure logic in C.</td>
+  </tr>
+  <tr>
+    <td>🍕</td>
+    <td><strong><a href="https://redxcyber.github.io/Food-website">Food Website</a></strong><br/>
+    A responsive and aesthetic food landing page using HTML & CSS.</td>
+  </tr>
+  <tr>
+    <td>💼</td>
+    <td><strong><a href="https://redxcyber.github.io/Portfolio">Portfolio Website</a></strong><br/>
+    Your personal portfolio site built with HTML & CSS.</td>
+  </tr>
+  <tr>
+    <td>🍽️</td>
+    <td><strong><a href="https://redxcyber.github.io/Restaurant-website">Restaurant Website</a></strong><br/>
+    A sleek, modern restaurant landing page design.</td>
+  </tr>
+  <tr>
+    <td>📝</td>
+    <td><strong><a href="https://async-todo.netlify.app">Async-Todo</a></strong><br/>
+    Todo app in Vanilla JS using mock API (GET, POST, DELETE).</td>
+  </tr>
+  <tr>
+    <td>⏰</td>
+    <td><strong><a href="https://20-20-20-clock.netlify.app">20-20-20 Clock</a></strong><br/>
+    Helps reduce eye strain with 20-20-20 rule reminders.</td>
+  </tr>
+</table>
+
 
 <br/>
+
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=asyncPranav&show_icons=true&theme=radical" width="49.5%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyncPranav&layout=compact&theme=radical" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asyncPranav&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="400"/>
 </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyncPranav&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="400"/>
+</p>
+
 
 <br/>
 
