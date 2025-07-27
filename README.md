@@ -81,12 +81,17 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=asyncPranav&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="400"/>
 </p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asyncPranav&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="400"/>
+</p>
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyncPranav&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="400"/>
 </p>
 
-
 <br/>
+
 
 ## 📫 Reach Me
 
