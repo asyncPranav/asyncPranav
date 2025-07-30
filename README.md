@@ -4,7 +4,7 @@
 <br/>
 
 
-## ⚙ Tech Stack & Tools
+## ⚙️ Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -82,8 +82,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=asyncPranav&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="400"/>
 </p>
 
+
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asyncPranav&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="400"/>
+  <img src="https://asyncpranav.vercel.app/?user=asyncpranav&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="400"/>
 </p>
 
 <p align="left">
