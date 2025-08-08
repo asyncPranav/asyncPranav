@@ -46,6 +46,31 @@
     Classic snake game built using pure logic in C.</td>
   </tr>
   <tr>
+    <td>🕉️</td>
+    <td><strong><a href="https://nam-jap.netlify.app">Nam-jap App</a></strong><br/>
+    Mantra counter web app with goal tracking, vibration, and session saving.</td>
+  </tr>
+  <tr>
+    <td>🔍</td>
+    <td><strong><a href="https://ghlookup.netlify.app">GHlookup</a></strong><br/>
+    A minimal vanilla js gitHub profile viewer that fetches and displays user info and repositories.</td>
+  </tr>
+  <tr>
+    <td>🎴</td>
+    <td><strong><a href="https://async-quotes.netlify.app">Async-quotes</a></strong><br/>
+    A quotes app that fetches quotes using an API and allows you to save your favorite quotes.</td>
+  </tr>
+  <tr>
+    <td>⏰</td>
+    <td><strong><a href="https://20-20-20-clock.netlify.app">20-20-20 Clock</a></strong><br/>
+    Helps reduce eye strain with 20-20-20 rule reminders.</td>
+  </tr>
+  <tr>
+    <td>📝</td>
+    <td><strong><a href="https://async-todo.netlify.app">Async-Todo</a></strong><br/>
+    Todo app in Vanilla JS using mock API (GET, POST, DELETE).</td>
+  </tr>
+  <tr>
     <td>🍕</td>
     <td><strong><a href="https://redxcyber.github.io/Food-website">Food Website</a></strong><br/>
     A responsive and aesthetic food landing page using HTML & CSS.</td>
@@ -59,16 +84,6 @@
     <td>🍽️</td>
     <td><strong><a href="https://redxcyber.github.io/Restaurant-website">Restaurant Website</a></strong><br/>
     A sleek, modern restaurant landing page design.</td>
-  </tr>
-  <tr>
-    <td>📝</td>
-    <td><strong><a href="https://async-todo.netlify.app">Async-Todo</a></strong><br/>
-    Todo app in Vanilla JS using mock API (GET, POST, DELETE).</td>
-  </tr>
-  <tr>
-    <td>⏰</td>
-    <td><strong><a href="https://20-20-20-clock.netlify.app">20-20-20 Clock</a></strong><br/>
-    Helps reduce eye strain with 20-20-20 rule reminders.</td>
   </tr>
 </table>
 
