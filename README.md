@@ -27,22 +27,22 @@
 <table>
   <tr>
     <td>🎓</td>
-    <td><strong><a href="https://github.com/Redxcyber/Learning-C/blob/main/18-projects/01-grade-management-system.c">Student Grade Management System</a></strong><br/>
+    <td><strong><a href="https://github.com/asyncpranav/Learning-C/blob/main/18-projects/01-grade-management-system.c">Student Grade Management System</a></strong><br/>
     A C program to manage and calculate student grades.</td>
   </tr>
   <tr>
     <td>📞</td>
-    <td><strong><a href="https://github.com/Redxcyber/Learning-C/blob/main/18-projects/02-contact-management-system.c">Contact Management System</a></strong><br/>
+    <td><strong><a href="https://github.com/asyncpranav/Learning-C/blob/main/18-projects/02-contact-management-system.c">Contact Management System</a></strong><br/>
     Command-line based contact organizer built in C.</td>
   </tr>
   <tr>
     <td>🔐</td>
-    <td><strong><a href="https://github.com/Redxcyber/Learning-C/blob/main/18-projects/04-password-manager.c">Password Manager</a></strong><br/>
+    <td><strong><a href="https://github.com/asyncpranav/Learning-C/blob/main/18-projects/04-password-manager.c">Password Manager</a></strong><br/>
     CLI app in C for securely managing saved passwords.</td>
   </tr>
   <tr>
     <td>🐍</td>
-    <td><strong><a href="https://github.com/Redxcyber/Learning-C/blob/main/18-projects/05-snake-game.c">Snake Game</a></strong><br/>
+    <td><strong><a href="https://github.com/asyncpranav/Learning-C/blob/main/18-projects/05-snake-game.c">Snake Game</a></strong><br/>
     Classic snake game built using pure logic in C.</td>
   </tr>
   <tr>
@@ -72,17 +72,17 @@
   </tr>
   <tr>
     <td>🍕</td>
-    <td><strong><a href="https://redxcyber.github.io/Food-website">Food Website</a></strong><br/>
+    <td><strong><a href="https://asyncpranav.github.io/Food-website">Food Website</a></strong><br/>
     A responsive and aesthetic food landing page using HTML & CSS.</td>
   </tr>
   <tr>
     <td>💼</td>
-    <td><strong><a href="https://redxcyber.github.io/Portfolio">Portfolio Website</a></strong><br/>
+    <td><strong><a href="https://asyncpranav.github.io/Portfolio">Portfolio Website</a></strong><br/>
     Your personal portfolio site built with HTML & CSS.</td>
   </tr>
   <tr>
     <td>🍽️</td>
-    <td><strong><a href="https://redxcyber.github.io/Restaurant-website">Restaurant Website</a></strong><br/>
+    <td><strong><a href="https://asyncpranav.github.io/Restaurant-website">Restaurant Website</a></strong><br/>
     A sleek, modern restaurant landing page design.</td>
   </tr>
 </table>
