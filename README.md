@@ -1,5 +1,5 @@
-<h1>👋 Hi, I'm Pranav</h1>
-<h3>🎓 First-Year B.Tech CSE Student | 📚 Learning Java & Web Development</h3>
+<h1 align="center">👋 Hi, I'm Pranav</h1>
+<h3 align="center">🎓 First-Year B.Tech CSE Student | 📚 Learning Java & Web Development</h3>
 
 <br/>
 
