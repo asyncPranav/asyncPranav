@@ -1,5 +1,11 @@
-<h1 align="center">👋 Hi, I'm Pranav</h1>
+<h1 align="center">Hi 👋, I'm Pranav</h1>
+
 <h3 align="center">🎓 First-Year B.Tech CSE Student | 📚 Learning Java & Web Development</h3>
+
+<br/>
+
+<div align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> </div>
+
 
 <br/>
 
@@ -88,6 +94,7 @@
   </tr>
 </table>
 
+<div align="center"> <a href="https://github.com/asyncPranav?tab=repositories"> <img src="https://img.shields.io/badge/View%20All%20Projects-61dafb?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/> </a> </div>
 
 <br/>
 
@@ -110,8 +117,26 @@
 <br/>
 
 
+
 ## 📫 Reach Me
 
-- 📩 Email: [pranavsingh.cse@gmail.com](mailto:pranavsingh.cse@gmail.com)
-- 💼 LinkedIn: [Pranav Singh Chandel](https://linkedin.com/in/pranavsinghchandel)
+<div align="left">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asyncPranav)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavsingh.cse@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asyncPranav)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/asyncPranav)
+  
+</div>
 
+
+<br/>
+<br/>
+
+<div align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%84;Let's+build+something+amazing+together!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Closing Message" /> 
+</div> 
+
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=120&section=footer"/> 
+</div>
