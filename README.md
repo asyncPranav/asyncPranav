@@ -94,7 +94,6 @@
   </tr>
 </table>
 
-<div align="center"> <a href="https://github.com/asyncPranav?tab=repositories"> <img src="https://img.shields.io/badge/View%20All%20Projects-61dafb?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/> </a> </div>
 
 <br/>
 
@@ -116,6 +115,16 @@
 
 <br/>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=asyncPranav&color=F7768E&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /> &nbsp;
+  <img src="https://img.shields.io/github/followers/asyncPranav?style=for-the-badge&color=7EE7A0&label=FOLLOWERS" alt="GitHub Followers" /> &nbsp;
+  <img src="https://img.shields.io/github/stars/asyncPranav?style=for-the-badge&color=70A5FD&label=STARS" alt="GitHub Stars" />
+</p>
+
+<br/>
+
+
+
 
 
 ## 📫 Reach Me
@@ -134,9 +143,18 @@
 <br/>
 
 <div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%84;Let's+build+something+amazing+together!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Closing Message" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%84;Let's+build+something+amazing+together!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Closing Message" /> 
 </div> 
 
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=120&section=footer"/> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=120&section=footer"/> 
 </div>
+
+
+
+
+
+
+
+
+
