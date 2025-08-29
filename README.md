@@ -1,13 +1,18 @@
-<h1 align="center">Hi, I'm Pranav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=asyncPranav&fontSize=50&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=0" />
+</div>
 
-<h3 align="center">🎓 First-Year B.Tech CSE Student | 📚 Learning Java & Web Development</h3>
+<h5 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <code>console.log("Hi, I'm Pranav!");</code>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h5>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=6c85f6ff&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+🎓;Self-taught+Programmer+👨‍💻+;Exploring+Projects+and+Learning+Daily+🚀+;Passionate+about+Building+Useful+Applications+🌱+" alt="Typing SVG" />
+</div>
 
 <br/>
-
-<div align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> </div>
-
-<br/>
-
 
 ## ⚙️ Tech Stack & Tools
 
@@ -141,19 +146,11 @@
 <br/>
 <br/>
 
-<div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%84;Let's+build+something+amazing+together!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Closing Message" /> 
-</div> 
 
-<div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=120&section=footer"/> 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=6c85f6ff&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+🙏;Let's+collaborate+and+build+amazing+things+🚀;Always+open+to+new+opportunities+💼;Happy+coding!+✨" alt="Closing Message" />
 </div>
 
-
-
-
-
-
-
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=130&section=footer&animation=fadeIn" />
+</div>
